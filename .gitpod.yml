@@ -1,0 +1,2 @@
+tasks:
+  - init: echo "please insert your credentials from AWS SSO" 
